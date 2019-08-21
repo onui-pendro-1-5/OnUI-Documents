@@ -1,0 +1,67 @@
+[CENTER]
+[img]https://raw.githubusercontent.com/onui-pendro-1-5/OnUI-Documents/master/onui.jpg[/img]
+
+
+[SIZE="5"][b][color=#1a73e8]OnUI-Pendro-1.5 for device name [device code][/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]About OnUI-Pendro[/color][/b][/SIZE]
+
+[B][SIZE="4"]OnUi-pendro-1.5 which is actually based on lineageOS , Pixel Experience & Aosp. Our aim is to push Samsung experience stuff and as well as some Oxygen os stuff in to all the Smart phones . So we really thank to all the Owners of Aosp , lineageOS & Pixel Experience for such a beautiful and standard code.
+
+[color=#1a73e8]Credits - [/color]
+[URL=" https://source.android.com/"]Android open source project[/URL]
+[URL=" https://github.com/lineageos"]LineageOS ( For base code )[/URL]
+[URL="https://github.com/PixelExperience"]Pixel experience ( For base code )[/URL]
+[URL="https://forum.xda-developers.com/member.php?u=10088925"]Harshit ( For Support and bootanimation )[/URL]
+[URL="https://forum.xda-developers.com/member.php?u=8507969"]Venkat ( For support & concept )[/URL]
+[URL="https://forum.xda-developers.com/member.php?u=5467580"]iaTa ( For oneplus live wallpapers port )[/URL]
+RocketSauce83 ( For base apk to port oneplus  live wallpapers )
+
+[color=#1a73e8]Features -[/color]
+- Based on Android 9.0
+- Oxygen os Slate font style
+- Oxygen os Style live wallpapers 
+- Samsung Galaxy Note 8, s9, j7 wallpapers
+- Dark theme support
+- Comes with gapps
+[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wifi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FMRadio
+Fingerprint reader
+NFC
+Lights
+Sound / vibration
+Facelock[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Installation procedure[/color][/b]
+
+1. Boot in to twrp
+2. Flash The ROM zip
+3. Reboot system.[/SIZE][/B]
+
+[SIZE="3"][B]DON'T FLASH GAPPS, ALREADY INCLUDED[/B][/SIZE]
+[SIZE="3"][url="https://sourceforge.net/projects/onui-pendro/files/device code/"][b][color=#1a73e8][u]Download Rom  [/u][/color][/b][/url][/SIZE]
+
+[SIZE="3"][url="twrp thread link"][b][color=#1a73e8][u]Download Official Twrp [/u][/color][/b][/url][/SIZE]
+
+[SIZE="3"][url="https://t.me/OnuIPendroOfficial"][b][color=#1a73e8][u]Join our Official OnUi Telegram Community [/u][/color][/b][/url][/SIZE]
+[/CENTER]
+
+[LEFT][SIZE="3"][list]
+[*][b]Build author:[/b] [url=your xda link ]your xda username[/url]
+[*][b]Source code:[/b] [url=https://github.com/onui-pendro-1-5]https://github.com/onui-pendro-1-5[/url]   
+[*][b]kernel source code:[/b] [url=link your kernel source]link your kernel source[/url]   
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=8154034]Raghu Varma[/url]
+[/list][/SIZE][/LEFT]
